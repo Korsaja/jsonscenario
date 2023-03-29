@@ -1,0 +1,56 @@
+{
+  "steps": [
+    {
+      "name": "create",
+      "args": [
+        "file.txt"
+      ]
+    },
+    {
+      "name": "rename",
+      "args": [
+        "file2.txt"
+      ]
+    },
+    {
+      "name": "condition",
+      "args": [
+        "2033-03-30 23:14:10"
+      ]
+    },
+    {
+      "name": "remove",
+      "args": []
+    },
+    {
+      "name": "create",
+      "args": [
+        "file_strings.txt"
+      ]
+    },
+    {
+      "name": "write",
+      "args": [
+        "test1",
+        "test2",
+        "test3"
+      ]
+    },
+    {
+      "name": "c_time",
+      "args": []
+    },
+    {
+      "name": "condition",
+      "args": [
+        "2034-03-30 23:14:10"
+      ]
+    },
+    {
+      "name": "rename",
+      "args": [
+        "final.txt"
+      ]
+    }
+  ]
+}
